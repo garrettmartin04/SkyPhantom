@@ -1,6 +1,6 @@
 - # Sky Phantom (Work in Progress) 🎮✈️
 
-Sky Phantom is a 2D arcade-style aerial combat game built in Unity.  
+Sky Phantom is a 2D arcade-style aerial combat game built in Unity and C#.  
 You fly a jet, dodge enemy fire, and shoot down waves of enemies. The goal is simple: stay alive as long as you can and rack up the highest score.
 ---
 ##  Features (Current & Planned)
