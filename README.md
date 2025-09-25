@@ -23,4 +23,4 @@ You fly a jet, dodge enemy fire, and shoot down waves of enemies. The goal is si
    git clone https://github.com/garrettmartin04/SkyPhantom.git
 2. Open the folder in Unity Hub (2022 LTS or later).
 3. Launch MainScene and hit play.
-4. Use A/D or arrow keys to move your jet.
+4. Use A/D to move your jet.
